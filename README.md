@@ -10,3 +10,6 @@ After that just put the CSS code below on Page Settings > Advances > Custom CSS
 
 
 Here I found a problem that is I can't make changes to the "Filter criteria text" section I want the filter to be dark and eliminate rounded
+
+
+Looking Website :https://faizzakharia.com/work/
