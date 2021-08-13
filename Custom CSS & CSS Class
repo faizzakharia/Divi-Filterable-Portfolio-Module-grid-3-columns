@@ -1,3 +1,10 @@
+//Before putting Cuscom CSS code on Page Settings
+//make changes to Module settings > Advanced > CSS ID & CSS Classes > CSS class. Put this code: "three-column-grid"
+
+//after that just put the css code below on Page Settings > Advances > Custom CSS
+
+//Code:
+
 /* THREE COLUMN PORTFOLIO GRID LAYOUT */
 
 @media only screen and ( min-width: 768px ) {
