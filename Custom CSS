@@ -1,0 +1,21 @@
+/* THREE COLUMN PORTFOLIO GRID LAYOUT */
+
+@media only screen and ( min-width: 768px ) {
+
+.three-column-grid .et_pb_grid_item {
+width: 32.334% !important;
+margin: 0 1.5% 3.5% 0 !important;
+}
+ 
+.three-column-grid .et_pb_grid_item:nth-child(3n) {
+margin-right: 0 !important;
+}
+
+.three-column-grid .et_pb_grid_item:nth-child(3n+1) {
+clear: left;
+}
+
+.three-column-grid .et_pb_grid_item:nth-child(4n+1) {
+clear: unset !important;
+}
+}
